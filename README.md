@@ -19,8 +19,8 @@ The project follows a clean full-stack architecture using FastAPI, React, SQLAlc
 
 ## Documentation
 
-- [Project Structure](STRUCTURE.md)  
-- [Flow and Working](FLOW_AND_WORKING.md)  
+- [Architecture & Flow](./ARCHITECTURE.md)
+- [Project Structure](./PROJECT_STRUCTURE.md)
 
 ---
 
