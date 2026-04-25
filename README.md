@@ -65,7 +65,7 @@ Run:
 ```bash
 setupdev.bat
 ```
-## Run application
+### Run application
 Runs the full application:
 - Starts backend
 - Starts frontend
