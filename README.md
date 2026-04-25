@@ -123,11 +123,11 @@ runapplication.bat
 The backend includes both unit tests and integration tests to ensure correctness of logic and API behavior.
 
 ### Unit Testing
-Tests individual functions and business logic
-Covers session lifecycle rules (pause, resume, complete, etc.)
+- Tests individual functions and business logic
+- Covers session lifecycle rules (pause, resume, complete, etc.)
 ### Integration Testing
-Tests full API flow using FastAPI TestClient
-Validates end-to-end session lifecycle
+- Tests full API flow using FastAPI TestClient
+- Validates end-to-end session lifecycle
 
 Run all tests:
 ```bash
