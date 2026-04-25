@@ -1,0 +1,48 @@
+# Python
+env/
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+build/
+dist/
+*.egg-info/
+
+# Node
+frontend/node_modules/
+frontend/build/
+
+# VSCode
+.vscode/
+
+# Logs
+activity.log
+*.log
+
+# Pytest cache
+.pytest_cache/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Database files 
+*.db
+*.sqlite
+*.sqlite3
+
+# SDK generated files
+deepwork_sdk/
+
+# Java/OpenAPI generator
+*.jar
+.openapi-generator/
+openapitools.json
+
+# Environment variables
+.env
+.env.local
+
+# Test database
+test_deepwork.db

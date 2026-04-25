@@ -1,0 +1,6 @@
+@echo off
+echo Starting backend...
+call env\Scripts\activate
+start cmd /k "cd backend && python main.py"
+echo Starting frontend...
+start cmd /k "cd frontend && npm start"
