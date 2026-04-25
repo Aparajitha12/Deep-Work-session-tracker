@@ -2,6 +2,21 @@
 
 A full-stack application to plan, execute, and analyze focused work sessions with interruption tracking and productivity insights.
 
+[![CI/CD](https://github.com/Aparajitha12/Deep-Work-session-tracker/actions/workflows/ci.yml/badge.svg)](https://github.com/Aparajitha12/Deep-Work-session-tracker/actions/workflows/ci.yml)
+![Python](https://img.shields.io/badge/python-3.10-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green)
+![React](https://img.shields.io/badge/React-18-61DAFB)
+![SQLite](https://img.shields.io/badge/SQLite-WAL-orange)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0-red)
+![Alembic](https://img.shields.io/badge/Alembic-migrations-yellow)
+![Pydantic](https://img.shields.io/badge/Pydantic-v2-purple)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-ASGI-lightgrey)
+![Axios](https://img.shields.io/badge/Axios-HTTP-blue)
+![APScheduler](https://img.shields.io/badge/APScheduler-3.x-orange)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-3.1-brightgreen)
+![SDK](https://img.shields.io/badge/SDK-auto--generated-blueviolet)
+![Tests](https://img.shields.io/badge/tests-15%20passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
 ---
 
 ## Overview
