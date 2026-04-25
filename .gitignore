@@ -31,6 +31,8 @@ Thumbs.db
 *.db
 *.sqlite
 *.sqlite3
+*.db-shm
+*.db-wal
 
 # SDK generated files
 deepwork_sdk/
